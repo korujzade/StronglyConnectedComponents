@@ -1,4 +1,4 @@
-# StronglyConnectedComponents
+# Strongly Connected Components
 Implementation of Tarjan Algorithm to find Strongly Connected Components in Directed Graph.
 
 Graph is represented in graph.gx file. The number of nodes, name of each node and edges of each node should be declined
